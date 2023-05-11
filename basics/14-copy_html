@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u /holbertonschool-shell/basics /holbertonschool-shell
+cp . ..
