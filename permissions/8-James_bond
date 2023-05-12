@@ -1,2 +1,0 @@
-#!/bin/bash
-chmod -wrx o+wrx hello
